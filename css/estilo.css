@@ -1,0 +1,24 @@
+#home {
+    background-color:#3fd4f5;
+    color: white;
+}
+
+
+
+#conteudo1 {
+    background: #3fd4f5;
+    color: white;
+}
+
+#sobre {
+    background-image:url(../img/fundo-sobre.png);
+}
+
+.navbar-brand{
+    background: #3fd4f5;
+    color: white;
+}
+
+a{
+    color: white;
+}
